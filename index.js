@@ -1,4 +1,4 @@
-require('dotenv').config();
+
 
 const search_form = document.querySelector(".header_form");
 
